@@ -1,0 +1,1 @@
+# stencil-react-not-tree-shakeable
